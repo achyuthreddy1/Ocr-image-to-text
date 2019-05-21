@@ -1,0 +1,4 @@
+#Mon Feb 11 20:27:56 IST 2019
+base.0=/home/achyuth/Downloads/OCRImagetoText/app/build/intermediates/dex/release/mergeDexRelease/out
+path.0=classes.dex
+renamed.0=classes.dex

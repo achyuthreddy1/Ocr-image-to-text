@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Feb 11 11:35:13 IST 2019
+0.baseType=DIRECTORY
+0.base=/home/achyuth/Downloads/OCRImagetoText/app/build/intermediates/dex/release/mergeDexRelease/out
+0.path=classes.dex
+0.set=DEX
+count=1

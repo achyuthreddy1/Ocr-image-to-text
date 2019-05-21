@@ -1,0 +1,242 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml:2:1-32:12
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.8.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/android-image-cropper-2.8.0.aar/61e0cb8ddcd06828a8fd40d2f5b0aea5/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/ae986c39f4e68744b5e5720159947fd5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0-beta01] /home/achyuth/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0-beta01.aar/6bc9146a8a73471ccc1ca06d6d987b80/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /home/achyuth/.gradle/caches/transforms-1/files-1.1/play-services-vision-17.0.2.aar/7fca76e1df095a26ebd3efcec01e1c88/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /home/achyuth/.gradle/caches/transforms-1/files-1.1/jetified-play-services-vision-common-17.0.2.aar/bfc32af721e0a9925343cde6186d3254/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/jetified-play-services-clearcut-16.0.0.aar/1bf1c18e5a1f61146b47f5e35879788e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/achyuth/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/abfea34d4813750cb5c0b3825b682c8b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/jetified-play-services-phenotype-16.0.0.aar/c1bcdac9d1bf3723e5b3352440750b14/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/achyuth/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/26e294859987d26ef7edbe3377a760ef/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/achyuth/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/8a2780c0b77ef8bc86b6be56804f8b96/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.1.0.aar/9790b65bcf4e47dd396a1f7c851ce16c/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/acf8fac49278a5e9be3153a01d6d766a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/e38cc9f33f82c4689a1aff2f735f69c6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/exifinterface-1.0.0.aar/d0f63669979c4d2c80d4bd763e7fe948/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] /home/achyuth/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.2.aar/6b0576b2d0f6c2bc2d5d8e9a476c61ae/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/503a0cf6afd4fb40992deb11120e937a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/6250a39c52c2abf776b539bb23a6fac4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/da049852d1f6b6edfedd353cec4164dc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/fe33baa0197079c93f2d76769a0c94b1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/0b73f51fc4b2437a9ed1eaf381f28dc3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/69b6a2be8dbf1dea7ec7580ce09568dc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/a51565a47b8ca0e8261c2cb2c03c82ea/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/86139e31d35550ad7a09d8d86f59e186/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/e91ba53dd42c1e8491de8863003c6748/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/ab98a2ece96096c97e5bbc81ddf57ca6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/7d42a22921486227febc6c2943476b80/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/8e9cf60c51225ea7bcad3291cf22c31e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/6917431fda443da2bbcfeb3789555aad/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/8fe6d084654851694d10dc4c7a5d11f0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/dab532eccbeb933c6146a6bb2cd03a68/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/1ec59f3343a21eccce609178d32c58c3/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/7cd00680593fe749efa975c48661b5b6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/d34be80ddb95fbd3a9df659ea3f009bc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/a4568f43994a31380a0083c47343cb2e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/f460d0df3d8f027c43898741ac7beb97/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/0553ef68ed86c5f71a63a44caafbaeac/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/5e29f761b23ddfc7c2c02a4e6ebf6cec/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/e2beda8887400c52283373cd9e5bb84a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/e041d8ad6086d971754359c3bbb89a8d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/736ab9f7a376d0b50c4504731122c2b0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml:4:5-41
+		INJECTED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml
+		INJECTED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml
+		ADDED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml
+		ADDED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml:7:5-64
+	android:name
+		ADDED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml:7:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml:8:22-78
+application
+ADDED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml:10:5-30:19
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /home/achyuth/.gradle/caches/transforms-1/files-1.1/play-services-vision-17.0.2.aar/7fca76e1df095a26ebd3efcec01e1c88/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /home/achyuth/.gradle/caches/transforms-1/files-1.1/play-services-vision-17.0.2.aar/7fca76e1df095a26ebd3efcec01e1c88/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /home/achyuth/.gradle/caches/transforms-1/files-1.1/jetified-play-services-vision-common-17.0.2.aar/bfc32af721e0a9925343cde6186d3254/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /home/achyuth/.gradle/caches/transforms-1/files-1.1/jetified-play-services-vision-common-17.0.2.aar/bfc32af721e0a9925343cde6186d3254/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/jetified-play-services-clearcut-16.0.0.aar/1bf1c18e5a1f61146b47f5e35879788e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/jetified-play-services-clearcut-16.0.0.aar/1bf1c18e5a1f61146b47f5e35879788e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/jetified-play-services-phenotype-16.0.0.aar/c1bcdac9d1bf3723e5b3352440750b14/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/jetified-play-services-phenotype-16.0.0.aar/c1bcdac9d1bf3723e5b3352440750b14/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/achyuth/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/26e294859987d26ef7edbe3377a760ef/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/achyuth/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/26e294859987d26ef7edbe3377a760ef/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/achyuth/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/8a2780c0b77ef8bc86b6be56804f8b96/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/achyuth/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/8a2780c0b77ef8bc86b6be56804f8b96/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.1.0.aar/9790b65bcf4e47dd396a1f7c851ce16c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.1.0.aar/9790b65bcf4e47dd396a1f7c851ce16c/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] /home/achyuth/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.2.aar/6b0576b2d0f6c2bc2d5d8e9a476c61ae/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] /home/achyuth/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.2.aar/6b0576b2d0f6c2bc2d5d8e9a476c61ae/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/8fe6d084654851694d10dc4c7a5d11f0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/8fe6d084654851694d10dc4c7a5d11f0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/1ec59f3343a21eccce609178d32c58c3/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/1ec59f3343a21eccce609178d32c58c3/AndroidManifest.xml:22:5-23:19
+	android:supportsRtl
+		ADDED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml:15:9-41
+	android:appComponentFactory
+		ADDED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml:12:9-53
+		REJECTED from [androidx.core:core:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/8fe6d084654851694d10dc4c7a5d11f0/AndroidManifest.xml:22:18-86
+	tools:ignore
+		ADDED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml:19:9-48
+	android:roundIcon
+		ADDED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml:18:9-40
+	tools:replace
+		ADDED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml:11:9-52
+activity#com.example.ocrimagetotext.MainActivity
+ADDED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml:20:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml:24:27-74
+activity#com.theartofdev.edmodo.cropper.CropImageActivity
+ADDED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml:28:9-29:46
+	android:theme
+		ADDED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml:29:13-44
+	android:name
+		ADDED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml:28:19-82
+uses-sdk
+INJECTED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml
+INJECTED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.8.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/android-image-cropper-2.8.0.aar/61e0cb8ddcd06828a8fd40d2f5b0aea5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.8.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/android-image-cropper-2.8.0.aar/61e0cb8ddcd06828a8fd40d2f5b0aea5/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/ae986c39f4e68744b5e5720159947fd5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/ae986c39f4e68744b5e5720159947fd5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0-beta01] /home/achyuth/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0-beta01.aar/6bc9146a8a73471ccc1ca06d6d987b80/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0-beta01] /home/achyuth/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0-beta01.aar/6bc9146a8a73471ccc1ca06d6d987b80/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /home/achyuth/.gradle/caches/transforms-1/files-1.1/play-services-vision-17.0.2.aar/7fca76e1df095a26ebd3efcec01e1c88/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /home/achyuth/.gradle/caches/transforms-1/files-1.1/play-services-vision-17.0.2.aar/7fca76e1df095a26ebd3efcec01e1c88/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /home/achyuth/.gradle/caches/transforms-1/files-1.1/jetified-play-services-vision-common-17.0.2.aar/bfc32af721e0a9925343cde6186d3254/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /home/achyuth/.gradle/caches/transforms-1/files-1.1/jetified-play-services-vision-common-17.0.2.aar/bfc32af721e0a9925343cde6186d3254/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/jetified-play-services-clearcut-16.0.0.aar/1bf1c18e5a1f61146b47f5e35879788e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/jetified-play-services-clearcut-16.0.0.aar/1bf1c18e5a1f61146b47f5e35879788e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/achyuth/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/abfea34d4813750cb5c0b3825b682c8b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/achyuth/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/abfea34d4813750cb5c0b3825b682c8b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/jetified-play-services-phenotype-16.0.0.aar/c1bcdac9d1bf3723e5b3352440750b14/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/jetified-play-services-phenotype-16.0.0.aar/c1bcdac9d1bf3723e5b3352440750b14/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/achyuth/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/26e294859987d26ef7edbe3377a760ef/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/achyuth/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/26e294859987d26ef7edbe3377a760ef/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/achyuth/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/8a2780c0b77ef8bc86b6be56804f8b96/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/achyuth/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/8a2780c0b77ef8bc86b6be56804f8b96/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.1.0.aar/9790b65bcf4e47dd396a1f7c851ce16c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.1.0.aar/9790b65bcf4e47dd396a1f7c851ce16c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/acf8fac49278a5e9be3153a01d6d766a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/acf8fac49278a5e9be3153a01d6d766a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/e38cc9f33f82c4689a1aff2f735f69c6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/e38cc9f33f82c4689a1aff2f735f69c6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/exifinterface-1.0.0.aar/d0f63669979c4d2c80d4bd763e7fe948/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/exifinterface-1.0.0.aar/d0f63669979c4d2c80d4bd763e7fe948/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] /home/achyuth/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.2.aar/6b0576b2d0f6c2bc2d5d8e9a476c61ae/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] /home/achyuth/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.2.aar/6b0576b2d0f6c2bc2d5d8e9a476c61ae/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/503a0cf6afd4fb40992deb11120e937a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/503a0cf6afd4fb40992deb11120e937a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/6250a39c52c2abf776b539bb23a6fac4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/6250a39c52c2abf776b539bb23a6fac4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/da049852d1f6b6edfedd353cec4164dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/da049852d1f6b6edfedd353cec4164dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/fe33baa0197079c93f2d76769a0c94b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/fe33baa0197079c93f2d76769a0c94b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/0b73f51fc4b2437a9ed1eaf381f28dc3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/0b73f51fc4b2437a9ed1eaf381f28dc3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/69b6a2be8dbf1dea7ec7580ce09568dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/69b6a2be8dbf1dea7ec7580ce09568dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/a51565a47b8ca0e8261c2cb2c03c82ea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/a51565a47b8ca0e8261c2cb2c03c82ea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/86139e31d35550ad7a09d8d86f59e186/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/86139e31d35550ad7a09d8d86f59e186/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/e91ba53dd42c1e8491de8863003c6748/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/e91ba53dd42c1e8491de8863003c6748/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/ab98a2ece96096c97e5bbc81ddf57ca6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/ab98a2ece96096c97e5bbc81ddf57ca6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/7d42a22921486227febc6c2943476b80/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/7d42a22921486227febc6c2943476b80/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/8e9cf60c51225ea7bcad3291cf22c31e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/8e9cf60c51225ea7bcad3291cf22c31e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/6917431fda443da2bbcfeb3789555aad/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/6917431fda443da2bbcfeb3789555aad/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/8fe6d084654851694d10dc4c7a5d11f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/8fe6d084654851694d10dc4c7a5d11f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/dab532eccbeb933c6146a6bb2cd03a68/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/dab532eccbeb933c6146a6bb2cd03a68/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/1ec59f3343a21eccce609178d32c58c3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/1ec59f3343a21eccce609178d32c58c3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/7cd00680593fe749efa975c48661b5b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/7cd00680593fe749efa975c48661b5b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/d34be80ddb95fbd3a9df659ea3f009bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/d34be80ddb95fbd3a9df659ea3f009bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/a4568f43994a31380a0083c47343cb2e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/a4568f43994a31380a0083c47343cb2e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/f460d0df3d8f027c43898741ac7beb97/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/f460d0df3d8f027c43898741ac7beb97/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/0553ef68ed86c5f71a63a44caafbaeac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/0553ef68ed86c5f71a63a44caafbaeac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/5e29f761b23ddfc7c2c02a4e6ebf6cec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/5e29f761b23ddfc7c2c02a4e6ebf6cec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/e2beda8887400c52283373cd9e5bb84a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/e2beda8887400c52283373cd9e5bb84a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/e041d8ad6086d971754359c3bbb89a8d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/e041d8ad6086d971754359c3bbb89a8d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/736ab9f7a376d0b50c4504731122c2b0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/736ab9f7a376d0b50c4504731122c2b0/AndroidManifest.xml:20:5-44
+INJECTED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml
+INJECTED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml
+		ADDED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml
+		INJECTED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml
+		ADDED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml
+		INJECTED from /home/achyuth/Downloads/OCRImagetoText/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/achyuth/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/26e294859987d26ef7edbe3377a760ef/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/achyuth/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/26e294859987d26ef7edbe3377a760ef/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/achyuth/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/26e294859987d26ef7edbe3377a760ef/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/achyuth/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/26e294859987d26ef7edbe3377a760ef/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.1.0.aar/9790b65bcf4e47dd396a1f7c851ce16c/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.1.0.aar/9790b65bcf4e47dd396a1f7c851ce16c/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /home/achyuth/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.1.0.aar/9790b65bcf4e47dd396a1f7c851ce16c/AndroidManifest.xml:24:13-58
